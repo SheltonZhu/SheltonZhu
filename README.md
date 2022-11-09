@@ -51,11 +51,3 @@ Here are some ideas to get you started:
 ![skills](https://skillicons.dev/icons?i=go,js,java,py,lua,docker,k8s,mysql,mongo,vue,html,css,git,linux,md,stackoverflow,vscode,nginx)
 
 <hr>
-
-<details>
-  <summary>Wakatime stats since Nov 10 2018</summary>
-  <br><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SheltonZhu&layout=compact&theme=dark" />
-  </a>
-</details>
