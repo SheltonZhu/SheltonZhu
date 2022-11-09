@@ -1,6 +1,4 @@
-### Hi there! I am [@SheltonZhu](https://github.com/SheltonZhu). 👋
-
-I am a software developer from China 🇨🇳.
+### Hi there! I am [@SheltonZhu](https://github.com/SheltonZhu).  A software developer from China 🇨🇳. 👋
 
 <!--
 **SheltonZhu/SheltonZhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,8 +20,6 @@ Here are some ideas to get you started:
 
 - ❤️ I love open source. 
  
-- 🌱 I’m currently learning Golang
-
 - 💬 Ask me about anything [here](https://github.com/SheltonZhu/SheltonZhu/issues)
 
 <p align="center"> 
