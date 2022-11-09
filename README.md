@@ -1,19 +1,5 @@
-### Hi there! I am [@SheltonZhu](https://github.com/SheltonZhu).  A software developer from China 🇨🇳. 👋
+### Hi there! I am [@SheltonZhu](https://github.com/SheltonZhu). 👋
 
-<!--
-**SheltonZhu/SheltonZhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 **About me**
 
 - 💼 BackEnd Engineer
@@ -50,3 +36,8 @@ Here are some ideas to get you started:
 
 ![skills](https://skillicons.dev/icons?i=go,js,java,py,nodejs,lua,docker,k8s,nginx,mysql,mongo,vue,html,css,git,linux,md,stackoverflow,vscode,vim)
 
+<!-- <p align="right">
+ <a href="https://github.com/SheltonZhu" >
+  <img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DSheltonZhu&labelColor=282c34&color=353940&logo=github&longCache=true" />
+ </a>
+</p> -->
