@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything [here](https://github.com/SheltonZhu/SheltonZhu/issues)
 
 <p align="center"> 
-  Visitor count: 
   <a href="https://profile-counter.glitch.me/SheltonZhu/count.svg">
     <img src="https://profile-counter.glitch.me/SheltonZhu/count.svg"/>
   </a>
@@ -35,10 +34,10 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=SheltonZhu&show_icons=true&theme=dark&include_all_commits=true" />
+    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=SheltonZhu&show_icons=true&theme=tokyonight&include_all_commits=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheltonZhu&layout=compact&theme=dark" />
+    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheltonZhu&layout=compact&theme=tokyonight" />
   </a>
   <!--
   <br>
@@ -48,5 +47,5 @@ Here are some ideas to get you started:
 
 <hr>
 
-![skills](https://skillicons.dev/icons?i=go,js,java,py,lua,docker,k8s,mysql,mongo,vue,html,css,git,linux,md,stackoverflow,vscode,nginx)
+![skills](https://skillicons.dev/icons?i=go,js,java,py,nodejs,lua,docker,k8s,nginx,mysql,mongo,vue,html,css,git,linux,md,stackoverflow,vscode,vim)
 
