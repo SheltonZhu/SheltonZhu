@@ -44,6 +44,11 @@ Here are some ideas to get you started:
   <img src="http://github-readme-streak-stats.herokuapp.com?user=SheltonZhu&theme=dark" align="center" />
   -->
 </p>
+<p align="center"> 
+  <a href="https://raw.githubusercontent.com/SheltonZhu/SheltonZhu/main/out/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/SheltonZhu/SheltonZhu/main/out/github-contribution-grid-snake.svg"/>
+  </a>
+</p>
 
 <hr>
 
