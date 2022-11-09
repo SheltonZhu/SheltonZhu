@@ -36,7 +36,7 @@
 
 <hr>
 
-![skills](https://skillicons.dev/icons?i=go,js,java,py,nodejs,lua,docker,k8s,nginx,mysql,mongo,vue,html,css,git,linux,md,stackoverflow,vscode,vim)
+![skills](https://skillicons.dev/icons?i=go,js,java,py,nodejs,lua,docker,k8s,nginx,mysql,mongo,redis,vue,html,css,git,linux,md,stackoverflow,vscode,vim,bash)
 
 <!-- <p align="right">
  <a href="https://github.com/SheltonZhu" >
