@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-![skills](https://skillicons.dev/icons?i=go,js,java,py,lua,docker,k8s,mysql,mongo,vue,html,css,git,linux,md,stackoverflow,vscode)
+![skills](https://skillicons.dev/icons?i=go,js,java,py,lua,docker,k8s,mysql,mongo,vue,html,css,git,linux,md,stackoverflow,vscode,nginx)
 
 <hr>
 
