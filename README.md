@@ -1,5 +1,7 @@
 ### Hi there! I am [@SheltonZhu](https://github.com/SheltonZhu). 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+software+developer+from+China+%F0%9F%87%A8%F0%9F%87%B3.)](https://git.io/typing-svg)
+
 **About me**
 
 - 💼 BackEnd Engineer
