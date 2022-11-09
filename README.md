@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 - 💼 BackEnd Engineer
 
+- ❤️ I love open source. 
+ 
 - 🌱 I’m currently learning Golang
 
 - 💬 Ask me about anything [here](https://github.com/SheltonZhu/SheltonZhu/issues)
@@ -40,9 +42,13 @@ Here are some ideas to get you started:
   </a>
   <!--
   <br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=BoYanZh&theme=dark" align="center" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=SheltonZhu&theme=dark" align="center" />
   -->
 </p>
+
+<hr>
+
+![skills](https://skillicons.dev/icons?i=go,js,java,py,lua,docker,k8s,mysql,mongo,vue,html,css,git,linux,md,stackoverflow,vscode)
 
 <hr>
 
@@ -50,6 +56,6 @@ Here are some ideas to get you started:
   <summary>Wakatime stats since Nov 10 2018</summary>
   <br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=BoYanZh&layout=compact&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SheltonZhu&layout=compact&theme=dark" />
   </a>
 </details>
