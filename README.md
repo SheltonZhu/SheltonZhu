@@ -29,8 +29,8 @@
   -->
 </p>
 <p align="center"> 
-  <a href="https://raw.githubusercontent.com/SheltonZhu/SheltonZhu/main/out/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/SheltonZhu/SheltonZhu/main/out/github-contribution-grid-snake.svg"/>
+  <a href="https://raw.githubusercontent.com/SheltonZhu/SheltonZhu/main/out/github-snake-drak.svg">
+    <img src="https://raw.githubusercontent.com/SheltonZhu/SheltonZhu/main/out/github-snake-dark.svg"/>
   </a>
 </p>
 
