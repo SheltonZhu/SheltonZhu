@@ -12,16 +12,20 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v2
         with:
           persist-credentials: false
           fetch-depth: 0
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@master
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: out/github-contribution-grid-snake.svg
+          outputs: |
+            out/github-contribution-grid-snake.svg
+            out/github-snake.svg
+            out/github-snake-dark.svg?palette=github-dark
+            out/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
       - name: Commit files
         run: |
           git add out/
